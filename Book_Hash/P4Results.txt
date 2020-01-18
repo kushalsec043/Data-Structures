@@ -1,0 +1,36 @@
+Testing hash function 0 using double hash 0.
+Total collisions = 16.
+-|--||||||------|-|-|-----|---|-----|||------||--||--|--|||-|||-|||||||-|||||||||----||||-|-|---|-|-
+
+Testing hash function 0 using double hash 1.
+Total collisions = 18.
+-|---|||||-----||-|-|-----|---|-|---|||---|-||||-||--||--||-|||-|||||||-||-||||-|-----|-|-|-|---|-|-
+
+Testing hash function 0 using double hash 2.
+Total collisions = 19.
+-|---||||||-|---|-|-|-|---|-|-|-----|||---|--||--||-|||--||-|||-|||-|||-||--|||-|-|---|-|-|-|---|-|-
+
+Testing hash function 1 using double hash 0.
+Total collisions = 600.
+||||||||||||||||||||||||||-------------------|||||-------------------------------|||||||||||||||||||
+
+Testing hash function 1 using double hash 1.
+Total collisions = 106.
+-|-|--|-|-|-|-|---|--|-|-|-|------|||-|--|||||-|-||----|---||----||--|||||||||-||||---|-|-||||-|---|
+
+Testing hash function 1 using double hash 2.
+Total collisions = 94.
+-|-|-||--|-|||---|-|-|||-|-|-|-|||---||--|-|-|-|||-|-|-|-|-|-|-|---|-|-|-|---|-|-|-|-|||-|---||-||--
+
+Testing hash function 2 using double hash 0.
+Total collisions = 225.
+|||||||------------------|-|-|---------||||||||||||||||||||||||||||---|||||||||----------|--------||
+
+Testing hash function 2 using double hash 1.
+Total collisions = 228.
+|||-|||----||-||---||-||-|-||||-||||-----|--|||--|||-||||||-|--|--||-----|-|--|-|--------||--|-|-||-
+
+Testing hash function 2 using double hash 2.
+Total collisions = 69.
+|-|---|-|-|---|---|-|----||||||||-----|-|-|-|||--||-|-|-|||---||--|||-|---||--||--|---|||||||-|-|-|-
+
